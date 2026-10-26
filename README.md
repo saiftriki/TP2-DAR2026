@@ -2,4 +2,4 @@
 ## Activité 2
 
 ### Activité 2-1
-![act2-1.png](screenshots/act2-1.png)
+![act2-1.png](screenshots/act2-1.png) 
